@@ -1,2 +1,2 @@
 # my-videos
- app React streaming spanish movies
+App streaming spanish movies
